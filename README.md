@@ -12,8 +12,8 @@ Shop is a sample e-commerce [Progressive Web App](https://developers.google.com/
 
 ## Setup
 ```bash
-$ git clone https://github.com/Polymer/shop.git
-$ cd shop
+$ git clone https://github.com/Nagoluaadhi/Shop-App.git
+$ cd shop-App
 $ npm i
 $ npm start
 ```
